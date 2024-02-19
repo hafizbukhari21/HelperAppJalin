@@ -1,0 +1,9 @@
+[19/02/2024 14:20:02] INFO (HelperMain.java:13) - Application Started
+[19/02/2024 14:20:02] INFO (HelperMain.java:14) - [ Run ] CommandLineRunner .. 
+[19/02/2024 14:20:02] INFO (HelperMain.java:15) - [ init ] Getting initial Data..
+[19/02/2024 14:20:02] INFO (HelperMain.java:27) - Run Custom
+[19/02/2024 14:20:02] INFO (HelperService.java:19) - [ init ] Source : 2000, Source Date : 20240101
+[19/02/2024 14:20:02] INFO (DatabaseUtil.java:31) - Run As Staging
+[19/02/2024 14:20:07] INFO (HelperService.java:95) - Sorry we cannot find Raw Data with source : 2000 and source date : 20240101
+[19/02/2024 14:20:07] INFO (HelperService.java:96) - Please try again...
+[19/02/2024 14:20:07] INFO (HelperMain.java:35) - Application Ended
