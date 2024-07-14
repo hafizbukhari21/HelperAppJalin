@@ -14,6 +14,6 @@ if %type%==2 (
 )
 
 
-java -Xms512m -Xmx4048m -jar HelperApp.jar "%arg1%" "%arg2%" "%arg3%" "%arg4%"  
+java -Xms512m -Xmx6048m -jar HelperApp.jar "%arg1%" "%arg2%" "%arg3%" "%arg4%"  
 pause
 
